@@ -4,12 +4,12 @@
 	<img src="https://api.statusbadges.me/badge/status/301035790891352076"/> <img src="https://komarev.com/ghpvc/?username=nichind&color=9963B3" alt="watching_count" /><br>
 	<img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-yae-miko/sticker_1.png?be529a633c95ff7c5e1c385f183f6ab2&d=200x200" width="280" height="280"/>
 	<br>
-	<img src="https://raw.githubusercontent.com/nichind/nichind/dd073285c74006a8a95048c2eb528b50dfa91730/assets/img/Hi%2C%20my%20name%20is%20nichind.svg"/>
+	<img <img src="https://img.pikbest.com/ai/illus_our/20230427/f0b61797e1e2c37d2e5b8e33b6a10f34.jpg!w700wp" width="280" height="280"/>
 	<br><br>
  
 	
-16 y.o. developer born in America.
-Fully self-taught, currently studying CS, and HTML.
+	16 y.o. developer born in America.
+	Fully self-taught, currently studying CS, and HTML.
 
 </div>
 
