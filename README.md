@@ -7,9 +7,10 @@
 	<img src="https://raw.githubusercontent.com/nichind/nichind/dd073285c74006a8a95048c2eb528b50dfa91730/assets/img/Hi%2C%20my%20name%20is%20nichind.svg"/>
 	<br><br>
  
-	17 y.o. fullstack developer & designer born in Russia.
- 	Fully self-taught, currently studying JS.
-  	Freely speaking Russian & English.
+	
+16 y.o. developer born in America.
+Fully self-taught, currently studying CS, and HTML.
+
 </div>
 
 Check out my embed player! https://embedplayer.nichind.dev/docs
