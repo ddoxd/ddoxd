@@ -3,7 +3,7 @@
 
 <div align="center" class="head-me" style="display: flex; flex-flow: column wrap;">
 	<img src="https://api.statusbadges.me/badge/status/301035790891352076"/> <br>
-	<img src="https://github.com/ddoxd/ddoxd/assets/157566448/2641fd45-afcd-4f33-8e99-d482e2e5f3cd" width="500" height="290"/>
+	<img src="https://github.com/ddoxd/ddoxd/assets/157566448/2641fd45-afcd-4f33-8e99-d482e2e5f3cd" width="560" height="290"/>
 	<br>
 	<img 
  
