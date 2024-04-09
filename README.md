@@ -5,8 +5,7 @@
 	<img src="https://api.statusbadges.me/badge/status/301035790891352076"/> <img src="https://komarev.com/ghpvc/?username=nichind&color=9963B3" alt="watching_count" /><br>
 	<img src="https://img.pikbest.com/ai/illus_our/20230427/f0b61797e1e2c37d2e5b8e33b6a10f34.jpg!w700wp" width="280" height="280"/>
 	<br>
-	<img src="https://raw.githubusercontent.com/nichind/nichind/dd073285c74006a8a95048c2eb528b50dfa91730/assets/img/Hi%2C%20my%20name%20is%20nichind.svg"/>
-	<br><br>
+	<img 
  
 	
 	16 y.o. developer born in America.
