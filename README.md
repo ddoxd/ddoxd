@@ -3,7 +3,7 @@
 
 <div align="center" class="head-me" style="display: flex; flex-flow: column wrap;">
 	<img src="https://api.statusbadges.me/badge/status/301035790891352076"/> <br>
-	<img src="https://img.pikbest.com/ai/illus_our/20230427/f0b61797e1e2c37d2e5b8e33b6a10f34.jpg!w700wp" width="400" height="283"/>
+	<img src="https://github.com/ddoxd/ddoxd/assets/157566448/2641fd45-afcd-4f33-8e99-d482e2e5f3cd" width="400" height="283"/>
 	<br>
 	<img 
  
@@ -12,4 +12,6 @@
 	Fully self-taught, currently studying CS, and HTML.
 
 </div>
+
+
 
