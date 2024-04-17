@@ -9,6 +9,6 @@
  
 	
 	16 y.o. developer born in America.
-	Fully self-taught, currently studying CS, and HTML.
+	Working on pash.inc
 
 </div>
