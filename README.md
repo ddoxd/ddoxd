@@ -1,5 +1,4 @@
 <div align="center" class="head-me" style="display: flex; flex-flow: column wrap;">
-<!-- HEY! You are free to use this layout, and i would be wery happy if you keep "readme layout made by https://github.com/nichind" in it ^_^ -->
 
 <div align="center" class="head-me" style="display: flex; flex-flow: column wrap;">
 	<br>
